@@ -1,1 +1,1 @@
-My link LOL!
+[My link LOL!](url)
